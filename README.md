@@ -10,7 +10,7 @@
   I’m looking to collaborate on anything that gives me more hands on experience.
 
 ->Contact<-
-If you want to contact me I am available via email on thgreenshaman@protonmail.ch
+If you would like to contact me I am available via email on thgreenshaman@protonmail.ch
 
 <!---
 thgreenshaman/thgreenshaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
