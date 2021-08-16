@@ -1,7 +1,7 @@
 
 //       Damian aka @thgreenshaman      //
 
-->I’m interested in all thing technology related although most of my focus is on self hosting, automation design and robotics.
+->I’m interested in all things technology related although most of my focus is on self hosting, automation design and robotics.
   I enjoy playing around with Python, Arduino and web development and occasionally find myself designing 3d models for 3d printing projects.
   I have experience with a small amount of bash scripting which is improved daily.
   Over the years I have developed a major passion for linux based operating systems and free and open source software.
